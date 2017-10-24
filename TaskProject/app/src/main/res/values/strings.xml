@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">AtlantTeamTask</string>
+    <string name="service_base_url">https://jsonplaceholder.typicode.com/</string>
+    <string name="error_download">Error download</string>
+    <string name="posts_bondary_error">1 &lt;= n &lt;= 100</string>
+    <string name="comments_bondary_error">1 &lt;= n &lt;= 500</string>
+    <string name="fragment_tag_one">one</string>
+    <string name="fragment_tag_two">two</string>
+    <string name="posts_body">To get the post enter n, 1 &lt;= n &lt;= 100</string>
+    <string name="comments_body">To get the comment enter n, 1 &lt;= n &lt;= 500</string>
+    <string name="user_1">User 1 name:&#160;</string>
+    <string name="user_2">User 2 name:&#160;</string>
+    <string name="user_3">User 3 name:&#160;</string>
+    <string name="user_4">User 4 name:&#160;</string>
+    <string name="user_5">User 5 name:&#160;</string>
+    <string name="post_id">Post ID:&#160;</string>
+    <string name="id">ID:&#160;</string>
+    <string name="name">Name:&#160;</string>
+    <string name="email">Email:&#160;</string>
+    <string name="body">Body:&#160;</string>
+    <string name="comments">Comments</string>
+    <string name="enter_n">Enter n</string>
+    <string name="confirm">Confirm</string>
+    <string name="user_id">User ID:&#160;</string>
+    <string name="title">Title:&#160;</string>
+    <string name="completed">Completed:&#160;</string>
+    <string name="my_name">Andrieiev Dmitry</string>
+    <string name="my_career_objective">Junior Android-developer</string>
+    <string name="my_phone_number">+7 953 283 01 51</string>
+    <string name="my_email">superandryeyev@gmail</string>
+    <string name="my_skype">goarmor</string>
+    <string name="photo_title">Photo</string>
+    <string name="photo_subtitle">The 3-rd photo</string>
+    <string name="posts_title">Posts</string>
+    <string name="todos_title">Todos</string>
+    <string name="todos_subtitle">Random task</string>
+    <string name="button_reload">RELOAD</string>
+    <string name="users_title">Users</string>
+    <string name="users_subtitle">Result of the first five users:</string>
+    <string name="bottom_main">Main</string>
+    <string name="contacts">Contacts</string>
+</resources>
