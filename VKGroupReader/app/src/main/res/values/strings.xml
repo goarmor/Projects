@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">VKGroupReader</string>
+
+    <integer name="com_vk_sdk_AppId">6144709</integer>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="screen_name_news">Новости</string>
+
+
+    <string name="font_heart">&#xE87D;</string>
+    <string name="font_comment">&#xE0B9;</string>
+    <string name="font_repost">&#xE050;</string>
+
+    <string name="screen_name_my_posts">Мои записи</string>
+    <string name="screen_name_settings">Настройки</string>
+    <string name="screen_name_members">Участники</string>
+    <string name="screen_name_topics">Обсуждения</string>
+    <string name="screen_name_info">Информация</string>
+    <string name="screen_name_rules">Правила группы</string>
+
+    <string name="screen_name_image">Изображение</string>
+    <string name="screen_name_opened_post">Запись</string>
+
+    <string name="screen_name_comments">Комментарии</string>
+    <string name="screen_name_opened_comment">Комментарий</string>
+
+    <string name="new_message_title">Новая запись</string>
+    <string name="add_message_text">Добавьте текст сообщения</string>
+    <string name="message_not_published">Запись не опубликована. Возможно, у вас нет прав для публикации на стене группы</string>
+    <string name="loading_completed">Загружено</string>
+    <string name="loading_failed">Ошибка загрузки. Убедитесь, что имя файла не содержит пробелы и кириллицу</string>
+
+    <string name="message">Message</string>
+    <string name="vk_group_default_name">VK Fest</string>
+
+    <string name="pref_push_notifications">Получать уведомления</string>
+
+    <string name="pref_push_notification_admin">Новости группы</string>
+    <string name="pref_push_notification_members">Комментарии к моей записи</string>
+    <string name="pref_push_notification_comment_replies">Ответы на мои комментарии</string>
+    <string name="need_login">Для работы приложения небходимо авторизоваться!</string>
+    <string name="group_rules">http://naukatehnika.com/</string>
+
+    <string name="title_links">Ссылки</string>
+    <string name="title_contacts">Контакты</string>
+</resources>

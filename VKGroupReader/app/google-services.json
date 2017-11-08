@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "839125476259",
+    "firebase_url": "https://vkgroupreader-ab61e.firebaseio.com",
+    "project_id": "vkgroupreader-ab61e",
+    "storage_bucket": "vkgroupreader-ab61e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839125476259:android:8fe526220ad32a67",
+        "android_client_info": {
+          "package_name": "com.company.superandyeyev.vkgroupreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839125476259-lonlu7jmponjt3blbqbja06n5g1laac2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.superandyeyev.vkgroupreader",
+            "certificate_hash": "7ab14960943091513d472fb7fcf6c97bcee9c4aa"
+          }
+        },
+        {
+          "client_id": "839125476259-jr30qirgcnnmbq2clkjh0rj3h54gc970.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGiB7GPugsVhw0tfjBWXoF9N1UHfiLS0k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839125476259-jr30qirgcnnmbq2clkjh0rj3h54gc970.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
