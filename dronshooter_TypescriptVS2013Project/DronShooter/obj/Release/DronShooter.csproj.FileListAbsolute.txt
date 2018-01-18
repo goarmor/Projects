@@ -1,0 +1,6 @@
+E:\Job\IRIYSOFT\TYPESCRIPT\DronShooterEight\DronShooter\bin\DronShooter.dll.config
+E:\Job\IRIYSOFT\TYPESCRIPT\DronShooterEight\DronShooter\bin\DronShooter.dll
+E:\Job\IRIYSOFT\TYPESCRIPT\DronShooterEight\DronShooter\bin\DronShooter.pdb
+E:\Job\IRIYSOFT\TYPESCRIPT\DronShooterEight\DronShooter\obj\Release\DronShooter.dll
+E:\Job\IRIYSOFT\TYPESCRIPT\DronShooterEight\DronShooter\obj\Release\DronShooter.pdb
+E:\Job\IRIYSOFT\TYPESCRIPT\DronShooterEight\DronShooter\obj\Release\DronShooter.csprojResolveAssemblyReference.cache
